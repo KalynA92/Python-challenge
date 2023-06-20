@@ -19,8 +19,8 @@ I started the challenge by first determining what each individual task was askin
 ## Citations
 
 https://stackoverflow.com/questions/13517080/sum-a-csv-column-in-python - Line 32 of main.py code Pybank
-https://stackoverflow.com/questions/59493593/loop-over-csv-rows-and-subtract-current-row-from-previous-row-using-python 
-- Line 42 of main.py code Pybank
+https://stackoverflow.com/questions/59493593/loop-over-csv-rows-and-subtract-current-row-from-previous-row-using-python - Line 42 of main.py code Pybank
+
 https://www.w3schools.com/python/ref_list_index.asp - Reference for indexing a list
 https://www.pythontutorial.net/python-basics/python-write-text-file/ - Used this article to learn how to write on the next line when writing the output of a code as a text file
 
