@@ -70,3 +70,5 @@ https://www.askpython.com/python/examples/in-and-not-in-operators-in-python - Re
 https://bobbyhadz.com/blog/python-append-value-to-list-if-not-present - Reference on how to append multiple values to a List if not present
 
 https://thepythonguru.com/python-string-formatting/#:~:text=2f%20are%20called%20as%20format,the%20tuple%20i.e%2012%20and%20%25. - Reference on how to print percentage to three decimal places ":.3F" known as a format specifier.
+
+https://datagy.io/python-get-dictionary-key-with-max-value/ - Reference on getting the max value from a dictionary. Line 82 to 86 of main.py Pypoll
