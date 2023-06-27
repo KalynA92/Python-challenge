@@ -19,9 +19,12 @@ I started the challenge by first determining what each individual task was askin
 
 ## References
 
-https://www.w3schools.com/python/ref_list_index.asp Reference for indexing a list
-https://favtutor.com/blogs/min-max-python Reference for max and min functions
-https://www.pythontutorial.net/python-basics/python-write-text-file/ Referenced to learn how to write on the next line when writing the output of a code as a text file
+https://www.w3schools.com/python/ref_list_index.asp 
+Reference for indexing a list
+https://favtutor.com/blogs/min-max-python 
+Reference for max and min functions
+https://www.pythontutorial.net/python-basics/python-write-text-file/ 
+Referenced to learn how to write on the next line when writing the output of a code as a text file
 
 ## Citations
 
